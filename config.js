@@ -30,7 +30,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "阔耐的憨憨": "./imgs/第一张.png",
+        "阔耐的憨憨": "./imgs/第一张.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
@@ -40,7 +40,7 @@ var config = {
         bannar_coming: "给你个憨憨颜色看看",
         balloons_flying: "过生日怎么能少了这个",
         cake_fadein: "缺个蛋糕？",
-        light_candle: "还缺蜡烛？",
+        light_candle: "介个蜡烛怎么能没有点亮呢？",
         wish_message: "祝你生日快乐哇",
         story: "A MESSAGE FOR YOU",
     }
