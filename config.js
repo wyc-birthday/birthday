@@ -39,9 +39,9 @@ var config = {
         play: "气氛要整起噻",
         bannar_coming: "给你个憨憨颜色看看",
         balloons_flying: "过生日怎么能少了这个",
-        cake_fadein: "缺个蛋糕？",
+        cake_fadein: "缺个蛋糕咩？",
         light_candle: "介个蜡烛怎么能没有点亮呢？",
         wish_message: "祝你生日快乐哇",
-        story: "A MESSAGE FOR YOU",
+        story: "憨憨亲启",
     }
 };
